@@ -1,4 +1,4 @@
-from control_flow import admin_login, hows_the_weather, fizzbuzz, calculator, pytest
+from control_flow import admin_login, hows_the_weather, fizzbuzz, calculator
 
 print(admin_login("sudo", "12345"))
 print(admin_login("admin", "12345"))
